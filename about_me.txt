@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+About me
+</title>
+</head>
+<body>
+<p> I'm Daweendri Himasha Thilakarathne. I'm a 2nd year Undergraduate of University Of Colombo School of Computing. My Index Number is 20021046 and my Registration Number is 2020/IS/04. I did my primary education at Anuradhapura Swarnapali Balika Maha Vidyalaya and seccondary education atAnuradhapura Central College. In my family there are my father, mother, elder brother and me.</p>
+</body>
+</html>
